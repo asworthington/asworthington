@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **asworthington@pstcc.edu**
 
-- 📄 Know about my experiences [https://asworthington-resume.tiiny.site/](https://asworthington-resume.tiiny.site/)
-
 - ⚡ Fun fact **There are over 700 coding languages**
 
 <h3 align="left">Connect with me:</h3>
