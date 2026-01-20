@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/asworthington](https://github.com/asworthington)
 
-- 📫 How to reach me **asworthington@pstcc.edu**
+- 📫 How to reach me **aworthi4@vols.utk.edu**
 
 - ⚡ Fun fact **There are over 700 coding languages**
 
